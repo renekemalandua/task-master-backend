@@ -24,20 +24,25 @@
 
 ## Description
 
-RESTful API with NestJS, TypeScript, JWT, and SOLID - CRUD for Users, Tasks, and Roles
-This repository contains a RESTful API built with NestJS and TypeScript, following SOLID principles. The API implements complete CRUD functionality for users, tasks, and roles (permissions), with routes protected by middleware for authentication and authorization using JWT (JSON Web Tokens).
+<p> RESTful API with NestJS, TypeScript, JWT, and SOLID - CRUD for Users, Tasks, and Roles
+This repository contains a RESTful API built with NestJS and TypeScript, following SOLID principles. The API implements complete CRUD functionality for users, tasks, and roles (permissions), with routes protected by middleware for authentication and authorization using JWT (JSON Web Tokens).</p>
 
-Main Features:
-User CRUD: Create, read, update, and delete users.
-Task CRUD: Manage tasks linked to users.
-Role CRUD: Define and assign access permissions.
-Authentication and Authorization: Use JWT to authenticate and protect sensitive routes.
-Role-based Permissions: Only users with the appropriate permissions can access specific routes and perform operations.
-Technologies:
-NestJS: Framework for building scalable applications in Node.js.
-TypeScript: A superset of JavaScript that adds static typing.
-JWT: Implementation of authentication and authorization.
-SOLID Principles: Modular and scalable architecture, facilitating maintenance and extension of the application.
+## Main Features:
+<ul>
+  <li>User CRUD: Create, read, update, and delete users.</li>
+  <li>Task CRUD: Manage tasks linked to users.</li>
+  <li>Role CRUD: Define and assign access permissions.</li>
+  <li>Authentication and Authorization: Use JWT to authenticate and protect sensitive routes.</li>
+  <li>Role-based Permissions: Only users with the appropriate permissions can access specific routes and perform operations.</li>
+</ul>
+
+## Technologies:
+<ul>
+ <li>NestJS: Framework for building scalable applications in Node.js.</li>
+ <li>TypeScript: A superset of JavaScript that adds static typing.</li>
+ <li>JWT: Implementation of authentication and authorization.</li>
+ <li>SOLID Principles: Modular and scalable architecture, facilitating maintenance and extension of the application.</li>
+</ul>
 
 ## Project setup
 
