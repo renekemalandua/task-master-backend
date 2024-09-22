@@ -1,0 +1,38 @@
+[
+    {
+        "permission":"create user"
+    },
+    {
+        "permission":"read user"
+    },
+    {
+        "permission":"update user"
+    },
+    {
+        "permission":"delete user"
+    },
+    {
+        "permission":"create task"
+    },
+    {
+        "permission":"read task"
+    },
+    {
+        "permission":"update task"
+    },
+    {
+        "permission":"delete task"
+    },
+    {
+        "permission":"create role"
+    },
+    {
+        "permission":"read role"
+    },
+    {
+        "permission":"update role"
+    },
+    {
+        "permission":"delete role"
+    }
+]
